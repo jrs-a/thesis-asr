@@ -1,0 +1,472 @@
+path|transcript
+thesis-asr/audios/audio01_00.flac|naku naman ang hirap nito pero sige na nga subu subukan ko
+thesis-asr/audios/audio01_01.flac|ayon sa kwento ng mga matatanda dito sa batangas noong unang panahon may isang magiting na batangueno na nagtagumpay sa pakikipaglaban sa mga kastila
+thesis-asr/audios/audio01_02.flac|siya ay isang mandirigma na matapang at mayroong malaking puso para sa kanyang bayan
+thesis-asr/audios/audio01_03.flac|sa bawat tagumpay niya lagi niyang sinasabi mabuhay ang batangas
+thesis-asr/audios/audio01_04.flac|kaya hanggang ngayon kapag may nagawa kaming maganda dito sa bayan namin lagi namin sinasabi ang kanyang pangalan at pinupuri namin ang kanyang kabayanihan
+thesis-asr/audios/audio01_05.flac|hindi laang naman pakikipaglaban ang sikat sa batangas
+thesis-asr/audios/audio01_06.flac|sikat din ang mga pagkaing gawa dito tulad ng mga bulalo goto lomi
+thesis-asr/audios/audio01_07.flac|at pati na rin ang mga festival tulad ng parada ng lechon at sublian festival
+thesis-asr/audios/audio01_08.flac|at syempre hindi mawawala ang salitang eh sa bawat usapan ng mga taga batangas
+thesis-asr/audios/audio01_09.flac|ganun talaga ang tono namin tono namin eh
+thesis-asr/audios/audio01_10.flac|pero wag kayong mag alala hindi naman kami galit
+thesis-asr/audios/audio01_11.flac|masayahin laang talaga ang mga batangueno
+thesis-asr/audios/audio01_12.flac|kaya kung gusto ninyong magpakain sa batangas punta na kayo punta na kayo dito at siguradong hindi kayo magsisisi
+thesis-asr/audios/audio01_13.flac|marami kayong makikilalang magagandang tao dine katulad ko
+thesis-asr/audios/audio01_14.flac|sa totoo laang may nakalimutan akong idagdag idagdag kanina sa ating mga salita dito sa batangas
+thesis-asr/audios/audio01_15.flac|hindi lang pala ang eh ang laging nasa dulo ng sinasabi namin
+thesis-asr/audios/audio01_16.flac|minsan mara maririnig niyo maririnig niyo rin sa amin ang diba kaya naman kaya nga naman parang ganito
+thesis-asr/audios/audio01_17.flac|galing mo talaga diba o kaya naman ang sarap naman nito ano nga
+thesis-asr/audios/audio01_18.flac|at saka hindi laang sa pakikipag usap namin lalabas ang ating batangueno accent
+thesis-asr/audios/audio01_19.flac|pati pagkain namin ay kakaibang
+thesis-asr/audios/audio01_20.flac|tunog din parang ganito kapag kumakain kami ng goto mabibilis ang pagtuloy tuloy ng aming dila
+thesis-asr/audios/audio01_21.flac|ganyan din sa pagkain ng lomi may kaunting ngalay ng bibig kapag dinudukot namin ang malalaking kahig ng lomi
+thesis-asr/audios/audio01_22.flac|pero wag kayong mag alala ang hindi namin hindi hindi naman lahat ng taga batangas ganito magsalita at kumain
+thesis-asr/audios/audio01_23.flac|mayroon din kaming mga taga doon sa kabundukan na may kakaibang salita at kultura
+thesis-asr/audios/audio01_24.flac|sa totoo laang masarap talagang makipag ugnayan sa ibat ibang tao dahil doon mo laang maiintindihan ang ibat ibang kultura at wika
+thesis-asr/audios/audio01_25.flac|at hindi lang sa pakikipaglaban pati na rin sa musika kilala ang batangas sikat ang mga awitin ng mga batangueno tulad ng sa kabukiran leron leron sinta
+thesis-asr/audios/audio01_26.flac|mayroon din kaming mga sayaw tulad ng subli at tinikling
+thesis-asr/audios/audio01_27.flac|kapag may okasyon dito sa bayan hindi mawawala ang tugtugan at sayawan
+thesis-asr/audios/audio01_28.flac|sa palengke naman hindi mawawala ang tawanan
+thesis-asr/audios/audio01_29.flac|mahilig kami sa baratihan at masaya kami kapag nakakakuha ng mababang presyo sa mga bilihin
+thesis-asr/audios/audio01_30.flac|pero hindi naman kami hindi naman kami sakim marunong din kami magbigay sa mga nangangailangan
+thesis-asr/audios/audio01_31.flac|at sa bawat pagkakataon lagi kaming nagpapasalamat sa poong maykapal sa mga biyayang ibinibigay sa amin
+thesis-asr/audios/audio01_32.flac|mahal namin ang ating bayan at mga kababayan kaya lagi namin itong pinagtatanggol at pinaglalaban
+thesis-asr/audios/audio01_33.flac|ganun talaga ang buhay dito sa batangas puno ng kulay at saya
+thesis-asr/audios/audio01_34.flac|kaya kung nais niyong makisama mga batangueno marunong laang kayong mag eh at siguradong magugustuhan namin kayo
+thesis-asr/audios/audio01_35.flac|tara na punta na tayo dito sa mga magagandang tanawin at masasarap na pagkain dito sa batangas
+thesis-asr/audios/audio02_00.flac|dito sa pilipinas hindi lang mga tanawin at bundok ang nakikita nito lamang
+thesis-asr/audios/audio02_01.flac|ganito rin kahirap ang sistema ng edukasyon at kalusugan sa bansa
+thesis-asr/audios/audio02_02.flac|ito rin ang dahilan kung bakit maraming kabataan ang hindi nakakapag aral at maraming mahihirap ang hindi nakakatanggap ng sapat na serbisyong pangkalusugan
+thesis-asr/audios/audio02_03.flac|ngunit hindi rin natin dapat kalimutan ang mga positibong bagay na lamang rin makikita
+thesis-asr/audios/audio02_04.flac|ganito kahaba ang ating kasaysayan ng pakikipaglaban para sa kalayaan at demokrasya
+thesis-asr/audios/audio02_05.flac|ito rin ang dahilan kung bakit dapat nating ipagpatuloy ang ating pagkilos upang mapagtagumpayan ang mga hamon na ating kinakaharap
+thesis-asr/audios/audio02_06.flac|dito sa pilipinas mayroon din tayong mga talento at kakayahan na ito lang naman ang maghahatid ng karangalan sa ating bansa
+thesis-asr/audios/audio02_07.flac|ganito kahusay ang mga atleta natin sa mga internasyonal na patimpalak
+thesis-asr/audios/audio02_08.flac|ito rin ang dahilan kung bakit dapat nating suportahan ang ating mga atleta at iba pang nagbi nagbibigay ng karangalan sa ating bansa
+thesis-asr/audios/audio02_09.flac|sa huli dito sa pilipinas makikita natin ang mga pagkakataong ito laang rin naman darating
+thesis-asr/audios/audio02_10.flac|ganito kahalaga ang bawat isa sa atin at nito laang natin mapapakita ang tunay na pagmamahal sa ating bansa at kapwa pilipino
+thesis-asr/audios/audio02_11.flac|ito rin ang dahilan kung bakit dapat nating alagaan ang ating mga tradisyon at kultura upang mapangalagaan ang ating pagkakilanlan bilang isang bansa
+thesis-asr/audios/audio02_12.flac|dagdag pa natin ang katotohan katotohanan na dito rin sa pilipinas mayroon tayong mga kultura at  tradisyon na ito lang naman ang nagbibigay kulay at kasaysayan sa ating bansa
+thesis-asr/audios/audio02_13.flac|ganito kahalaga ang ating mga festival at mga at mga ritwal dahil ito ang nagpapakita ng ating pagkakakilanlan bilang mga pilipino
+thesis-asr/audios/audio02_14.flac|kabuuan dito sa pilipinas mayroong mga realidad na ito lang naman ang nakikita
+thesis-asr/audios/audio02_15.flac|ngunit sa kabila ng lahat ng ito mayroon pa rin tayong mga dahilan upang magpatuloy at magpakatatag sa paglalakbay natin bilang isang bansa
+thesis-asr/audios/audio02_16.flac|ang tunay na ganda at halaga ng pilipinas ay nakikita natin dito lamang natin mapapansin at ito rin ang nagbibigay lakas at pag asa sa ating lahat
+thesis-asr/audios/audio03_00.flac|sa pagluluto maraming bagay ang dapat isaalang
+thesis-asr/audios/audio03_01.flac|hindi laang basta basta magluluto ng pagkain dahil kailangan ng tamang proseso at tamang timpla para magustuhan ng mga taong kakain nito
+thesis-asr/audios/audio03_02.flac|alam ninyo ba pala na ang pagluluto ay hindi laang para sa mga propesyonal na taga luto
+thesis-asr/audios/audio03_03.flac|kahit sino ay pwedeng magluto ng masarap na pagkain sa kanilang tahanan
+thesis-asr/audios/audio03_04.flac|hindi namang kailangang magaling ka na agad sa isang subok mo magluto
+thesis-asr/audios/audio03_05.flac|kailangan mo lang ng pagsisikap tiyaga at pagtitiyaga ng ng mga ingredients na gagamitin mo
+thesis-asr/audios/audio03_06.flac|kung hindi mo pa alam ang tamang timpla pwede kang magtanong sa mga nakakatanda sayo may experience na sa pagluluto
+thesis-asr/audios/audio03_07.flac|kahit pa kayo ay taga batangas pwede naman kayong mag matuto ng ibat ibang putahe mula sa ibat ibang lugar
+thesis-asr/audios/audio03_08.flac|parang tayo nga nga ngayon naguusap tungkol sa pagluluto
+thesis-asr/audios/audio03_09.flac|dito sa batangas masasabi ko sayo talaga namang masarap ang lutong batangas lalo na ang mga pagkain na may gata
+thesis-asr/audios/audio03_10.flac|kaya hindi na dapat mag alinlangan kung gusto mo itong subukan
+thesis-asr/audios/audio03_11.flac|eh kung hindi mo pa nasusubukan ay uy masayang masaya akong sabihin sayo na ang luto ay masarap talaga
+thesis-asr/audios/audio03_12.flac|pero kung hindi naman talaga sayo kayo mahilig sa lutong batangas okay lang naman
+thesis-asr/audios/audio03_13.flac|ang importante naman ay ang gusto niyo
+thesis-asr/audios/audio03_14.flac|kung anong putahe ang gusto ninyong subukan gawin gawin ninyo
+thesis-asr/audios/audio03_15.flac|pero kung hindi niyo alam kung paano to lutuin wag kayong mag alala
+thesis-asr/audios/audio03_16.flac|mayroong maraming recipe book na pwede niyo basahin para matutunan ang tamang proseso ng pagluluto
+thesis-asr/audios/audio03_17.flac|pwede rin kayong maghanap ng mga recipe online para madaling matuto
+thesis-asr/audios/audio03_18.flac|ganito lang din ang ginagawa namin sa kaka ibang putahe na gusto namin lutuin
+thesis-asr/audios/audio03_19.flac|pero kung sakaling may mga taong hindi pa din nagluluto kahit na mayroon nang mga recipe book at online tutorial hindi pa din naman sila sigurado kung kayang magluto
+thesis-asr/audios/audio03_20.flac|kahit naman ako ay ganun din kaya naman ang ginagawa ko ay sinusubukan ko lang
+thesis-asr/audios/audio03_21.flac|hindi ko pa rin kaya eh di di ko na lang susubukan
+thesis-asr/audios/audio03_22.flac|pero kung okay naman pwede naman natin subukan ulit at baka sakaling may mas magaling na tayo
+thesis-asr/audios/audio03_23.flac|kaya sa mga taong hindi pa nakaka subok magluto wag kayong mag alinlangan pa mag umpisa
+thesis-asr/audios/audio03_24.flac|hindi naman kailangang maging magaling agad sa unang subok kailangan lang natin ng tiyaga at pagsisikap
+thesis-asr/audios/audio03_25.flac|hindi naman kailangang maging taga batangas para matuto ng mga lutuing batangas
+thesis-asr/audios/audio03_26.flac|bastat mayroong interes kayang kaya niyo itong matutunan
+thesis-asr/audios/audio04_00.flac|dito sa pilipinas hindi lang tanawin at bundok ang nakikita nito lamang
+thesis-asr/audios/audio04_01.flac|ganito rin kahirap ang sistema ng edukasyon at kalusugan sa banda
+thesis-asr/audios/audio04_02.flac|ito rin ang dahilan kung bakit maraming kabataan ang hindi nakakapag aral at maraming mahihirap ang hindi nakakatanggap ng sapat na serbisyong pangkalusugan
+thesis-asr/audios/audio04_03.flac|ngunit hindi rin natin dapat kalimutan ang mga positibong bagay na nito lamang rin makikita
+thesis-asr/audios/audio04_04.flac|ganito kahaba ang ating kasaysayan ang pakikipaglaban para sa kalayaan at demokrasya
+thesis-asr/audios/audio04_05.flac|ito rin ang dahilan kung bakit dapat nating ipagpatuloy ang ating pagkilos upang mas matagum mapagtagumpayan ang mga hamon sa ating kinakaharap
+thesis-asr/audios/audio04_06.flac|dito sa pilipinas maari din tayong mga talento at kakayahan na ito lang laang naman ang maghahatid ng karangalan sa ating bansa
+thesis-asr/audios/audio04_07.flac|ganito kahusay ang mga atleta natin sa mga internasyonal na patimpalak
+thesis-asr/audios/audio04_08.flac|ito rin ang dahilan kung bakit dapat nating suportahan ang ating mga atleta at iba pang nagbibigay ng karangalan sa ating bansa
+thesis-asr/audios/audio04_09.flac|sa huli dito sa pilipinas makikita natin ang mga pagkakataong ito laang rin naman darating
+thesis-asr/audios/audio04_10.flac|ganito kahalaga ang bawat isa sa atin at nito laang natin mapapakita ang tunay na pagmamahal sa ating bansa at kapwa pilipino
+thesis-asr/audios/audio04_11.flac|ito rin ang dahilan kung bakit dapat nating alagaan ang ating mga tradisyon at kultura upang mapangalagaan ang ating pagkakakilanlan bilang isang bansa
+thesis-asr/audios/audio04_12.flac|dagdag pa natin ang katotohanan na dito rin sa pilipinas mayroon tayong mga kultura at  tradisyon na ito laang naman ang nagbibigay kulay at kasaysayan sa ating bansa
+thesis-asr/audios/audio04_13.flac|ganito kahalaga ang ating mga festival at mga ritwal dahil dito ang nagpapakita ng ating pagkakakilanlan bilang mga pilipino
+thesis-asr/audios/audio04_14.flac|sa kabuuan dito sa pilipinas mayroong mga realidad na ito laang naman ang nakikita
+thesis-asr/audios/audio04_15.flac|ngunit sa kabila ng lahat ng ito mayroon pa rin tayong mga dahilan upang magpatuloy at magpakatatag sa paglalakbay natin bilang isang bansa
+thesis-asr/audios/audio04_16.flac|ang tunay na ganda at halaga ng pilipinas ay nakikita natin dito lamang natin mapapansin at ito rin ang nagbibigay lakas at pag asa sa ating lahat
+thesis-asr/audios/audio05_00.flac|naku naman ang hirap nito pero sige na nga susubukan ko
+thesis-asr/audios/audio05_01.flac|ayon sa kwento ng mga matatanda dito sa batangas nung panahong noong unang panahon may isang magiting na batangueno na na nagtagumpay sa pakikipaglaban sa mga kastila
+thesis-asr/audios/audio05_02.flac|siya ay mandirigma na matapang at mayroong malaking puso para sa kanyang bayan
+thesis-asr/audios/audio05_03.flac|sa bawat tagumpay niya lagi niyang sinasabi mabuhay ang batangas
+thesis-asr/audios/audio05_04.flac|kaya hanggang ngayon kapag may nagawa kaming maganda dito sa bayan namin lagi namin sinasabi ang kanyang pangalan at pinupuri namin ang kanyang kabayanihan
+thesis-asr/audios/audio05_05.flac|pero hindi lamang pakikipaglaban ang sikat sa batangas
+thesis-asr/audios/audio05_06.flac|sikat din ang mga pagkaing gawa dito tulad ng bulalo goto at lomi
+thesis-asr/audios/audio05_07.flac|pati na rin ang mga festival tulad ng parada ng lechon at sublian festival
+thesis-asr/audios/audio05_08.flac|at syempre hindi rin mawawala ang salitang eh sa bawat usapan ng mga taga batangas
+thesis-asr/audios/audio05_09.flac|ganun talaga ang tono namin eh
+thesis-asr/audios/audio05_10.flac|pero wag wag kayong mag alala hindi naman kami galit
+thesis-asr/audios/audio05_11.flac|masayahin lang talaga ang mga batangueno
+thesis-asr/audios/audio05_12.flac|kaya kung gusto ninyong mapakain magpakain sa batangas punta kayo dito sa siguradong hindi kayo magsisisi
+thesis-asr/audios/audio05_13.flac|marami kayong makikilalang magandang tao dito katulad ko hihi
+thesis-asr/audios/audio05_14.flac|sa totoo lang may nakalimutan akong idagdag kanina tungkol sa ating mga salita dito sa batangas
+thesis-asr/audios/audio05_15.flac|hi hindi lang pala ang eh ang laging nasa dulo ng sinasabi namin
+thesis-asr/audios/audio05_16.flac|minsan maririnig niyo rin ang amin ang diba o kaya naman nga 
+thesis-asr/audios/audio05_17.flac| parang ganito galing mo tala talaga diba o kaya naman ang sarap naman nito nga
+thesis-asr/audios/audio05_18.flac|at saka hindi lang sa pakikipag usap namin lalabas sa ating batangueno accent
+thesis-asr/audios/audio05_19.flac|pati sa pagkain namin ay kakaibang tunog din
+thesis-asr/audios/audio05_20.flac|parang ganito kapag kumakain ka kami ng goto mabibilis mabibilis at pagtuloy tuloy ang aming dila
+thesis-asr/audios/audio05_21.flac|ganyan din sa pagkain ng lomi may kaunting ngalay ng bibig kapag di dinudukot namin ang malalaking kahig ng lomi
+thesis-asr/audios/audio05_22.flac|pero wag kayong mag alala hi hindi naman lahat ng taga batangas ganito magsalita at kumain
+thesis-asr/audios/audio05_23.flac|mayroon din kaming mga taga doon sa kabundukan na may kaba kakaibang salita at kultura
+thesis-asr/audios/audio05_24.flac|sa totoo lang masarap talagang makipag ugnayan sa ibat ibang tao dahil don dahil dun mo lang maiintindihan ang ibat ibang kultura at wika
+thesis-asr/audios/audio05_25.flac|at hindi lang sa pakikipaglaban pati na rin sa musika kilala ang batangas 
+thesis-asr/audios/audio05_26.flac|sikat ang mga awitin ng mga batangueno tulad ng sa ka kabukiran at leron leron sinta
+thesis-asr/audios/audio05_27.flac|mayroon din kaming mga sayaw tulad ng subli at tinikling
+thesis-asr/audios/audio05_28.flac|kapag may okasyon dito sa bayan hindi mawawala ang tugtugan at sayawan
+thesis-asr/audios/audio05_29.flac|sa palengke naman hindi mawawala ang tawaran
+thesis-asr/audios/audio05_30.flac|mahilig kami sa baratihan at masaya kami kapag nakakuha kami ng mababang presyo sa mga bilihin
+thesis-asr/audios/audio05_31.flac|pero hindi naman kami sakim marunong din kami magbigay sa mmga nangangailangan
+thesis-asr/audios/audio05_32.flac|at sa bawat pagkakataon lagi kaming nag nagpapasalamat sa poong maykapal sa mga biyayang binibigay sa amin
+thesis-asr/audios/audio05_33.flac|mahal namin ang ating bayan at ang kababayan kaya lagi namin itong ipagtatanggol at ipaglalaban
+thesis-asr/audios/audio05_34.flac|ganun talaga ang buhay dito sa batangas puno ng kulay at saya
+thesis-asr/audios/audio05_35.flac|kaya kung nais ninyong makisama sa mga mga batangueno marunong laang kayong mag eh at siguradong magugustuhan namin kayo
+thesis-asr/audios/audio05_36.flac|tara na punta na tayo sa magagandang tanawin at masasarap na pagkain dito sa batangas
+thesis-asr/audios/audio06_00.flac|dine sa pilipinas hindi laang mga tanawin at bundok ang nakikita nire laang
+thesis-asr/audios/audio06_01.flac|ganire din kahirap ang sistema ng edukasyon at kalusugan sa bansa
+thesis-asr/audios/audio06_02.flac|are din ang dahilan kung bakit maraming kabataan ang hindi nakakapag aral at maraming mahihirap ang hindi nakakatanggap ng sapat na serbisyong pangkalusugan
+thesis-asr/audios/audio06_03.flac|ngunit hindi rin natin dapat kalimutan ang mga positibong bagay na dine laang din makikita
+thesis-asr/audios/audio06_04.flac|ganire kahaba ang ating kasaysayan ng pakikipaglaban para sa kalayaan at de demokrasya
+thesis-asr/audios/audio06_05.flac|are din ang dahilan kung bakit dapat nating ipagpatuloy ang ating pagkilos upang mas mapag mapagtagumpayan ang mga hamon na ating kinakaharap
+thesis-asr/audios/audio06_06.flac|dine sa pilipinas mayroon din tayong mga talento at kakayahan na are laang naman ang maghahatid ng karangalan sa ating bansa
+thesis-asr/audios/audio06_07.flac|ganire kahusay ang mga atleta natin sa mga internasyonal na patimpalak
+thesis-asr/audios/audio06_08.flac|are din ang dahilan kung bakit dapat nating suportahan ang ating mga atleta at iba pang nagbibigay ng karangalan sa ating bansa
+thesis-asr/audios/audio06_09.flac|sa huli dine sa pilipinas makikita natin ang mga pagkakataong are lang din naman
+thesis-asr/audios/audio06_10.flac|dine sa pilipinas makikita natin ang mga pagkakataong are laang rin naman darating
+thesis-asr/audios/audio06_11.flac|ganire kahalaga ang bawat isa sa atin at dine laang natin mapapakita ang tunay na pagmamahal sa ating bansa at kapwa pilipino
+thesis-asr/audios/audio06_12.flac|are din ang dahilan kung bakit dapat nating alagaan ang ating mga tradisyon at kultura upang mapahalagahan ang ating pagkakakilanlan bilang isang bansa
+thesis-asr/audios/audio06_13.flac|dagdag pa natin ang katotohanan na dine rin sa pilipinas mayroon tayong mga kultura at  tradisyon na are laang naman ang nagbibigay kulay at kasaysayan sa ating bansa
+thesis-asr/audios/audio06_14.flac|ganire kahalaga ang ating mga festival at mga ritwal dahil are ang nagpapakita ng ating pagkakakilanlan bilang mga pilipino
+thesis-asr/audios/audio06_15.flac|sa kabuuan dine sa pilipinas mayroong mga realidad na ito lamang naman ang nakikita
+thesis-asr/audios/audio06_16.flac|ngunit sa kabila ng lahat ng are mayroon pa rin tayong mga dahilan upang pagpatuloy ipagkaka pagkaka magpakatatag sa paglalakbay natin bilang isang bansa
+thesis-asr/audios/audio06_17.flac|ang tunay na ganda at halaga ng pilipinas ay nakikita nadin natin laang natin mapapansin at are rin ang nagbibigay lakas at pag asa sa ating lahat
+thesis-asr/audios/audio07_00.flac|dine sa pilipinas hindi laang mga tanawin at bundok ang nakikita dine la di dine laang
+thesis-asr/audios/audio07_01.flac|ganire din kahirap ang sistema ng edukasyon at kalusugan sa bansa
+thesis-asr/audios/audio07_02.flac|are din ang dahilan kung bakit maraming kabataan ang hindi nakakapag aral at maraming mahihirap ang hindi nakakatanggap ng sapat na serbisyong pangkalusugan
+thesis-asr/audios/audio07_03.flac|ngunit hindi rin natin dapat kalimutan ang mga positibong bagay na dine laang din makikita
+thesis-asr/audios/audio07_04.flac|ganire kahaba ang ating kasaysayan ng pakikipaglaban para sa kalayaan at demokrasya
+thesis-asr/audios/audio07_05.flac|are din ang dahilan kung bakit dapat nating ipagpatuloy ang ating pagkilos upang mas mapagtagumpayan ang mga hamon na ating kinakaharap
+thesis-asr/audios/audio07_06.flac|dine sa pilipinas mayroon din tayong mga talento at kakayahan na dine rin laang naman ang maghahatid ng karangalan sa ating bansa
+thesis-asr/audios/audio07_07.flac|ganire kahusay ang mga atleta natin sa mga internasyonal na patimpalak
+thesis-asr/audios/audio07_08.flac|are din ang dahilan kung bakit dapat nating suportahan ang ating mga atleta at iba pang nagbibigay ng karangalan sa ating bansa
+thesis-asr/audios/audio07_09.flac|sa huli dine sa pilipinas makikita natin ang mga pagkakataong are laang rin naman darating
+thesis-asr/audios/audio07_10.flac|ganire kahalaga ang bawat isa sa atin at dine laang natin mapapakita ang tunay na pagmamahal sa ating bansa at kapwa pilipino
+thesis-asr/audios/audio07_11.flac|are din ang dahilan kung bakit dapat nating alagaan ang ating mga tradisyon at kultura upang mapangalagaan ang ating pagkakakilanlan bilang isang bansa
+thesis-asr/audios/audio07_12.flac|dagdag pa natin ang katotohanan na dine rin sa pilipinas mayroon tayong mga kultura at  tradisyon na are laang naman ang nagbibigay kulay at kasaysayan sa ating bansa
+thesis-asr/audios/audio07_13.flac|ganire kahalaga ang ating mga festival at mga ritwal dahil are ang nagpapakita ng ating pagkakakilanlan bilang mga pilipino
+thesis-asr/audios/audio07_14.flac|sa kabuuan dine sa pilipinas mayroong mga realidad na ito laang naman ang nakikita
+thesis-asr/audios/audio07_15.flac|ngunit sa kabila lahat ng mga are mayroon pa rin tayong mga dahilan upang magpatuloy at magpakatatag sa paglalakbay natin bilang isang bansa
+thesis-asr/audios/audio07_16.flac|ang tunay na ganda at halaga ng pilipinas ay nakikita natin dine lamang natin mapapansin at ate rin ate rin at are rin ang nagbibigay lakas at pag asa sa ating lahat
+thesis-asr/audios/audio08_00.flac|dine sa pilipinas hindi laang mga tanawin at bundok ang nakikita dine laang
+thesis-asr/audios/audio08_01.flac|ganire din kahirap ang sistema ng edukasyon at kalusugan sa bansa
+thesis-asr/audios/audio08_02.flac|are din ang dahilan kung bakit maraming kabataan ang hindi nakakapag aral at maraming mahihirap ang hindi nakakatanggap ng sapat na serbisyong pangkalusugan
+thesis-asr/audios/audio08_03.flac|ngunit hindi din natin dapat kalimutan ang mga positibong bagay na dine laang din makikita
+thesis-asr/audios/audio08_04.flac|ganire kahaba ang ating kasaysayan ng pakikipaglaban para sa kalayaan at demokrasya
+thesis-asr/audios/audio08_05.flac|are din ang dahilan kung bakit dapat nating ipagpatuloy ang ating pagkilos upang mas mapag tagumpayan ang mga hamon na ating kinakaharap
+thesis-asr/audios/audio08_06.flac|dine sa pilipinas mayroon din tayong mga talento at kakayahan na are laang naman ang maghahatid ng karangalan sa ating bansa
+thesis-asr/audios/audio08_07.flac|ganire kahusay ang mga atleta natin sa mga internasyonal na patimpalak
+thesis-asr/audios/audio08_08.flac|are din ang dahilan kung bakit dapat nating suportahan ang ating mga atleta at iba pang nagbibigay ng karangalan sa ating bansa
+thesis-asr/audios/audio08_09.flac|sa huli dine sa pilipinas makikita natin ang mga pagkakataong are laang din naman darating
+thesis-asr/audios/audio08_10.flac|ganire kahalaga ang bawat isa sa atin at dine laang natin mapapakita ang tunay na pagmamahal sa ating bansa at kapwa pilipino
+thesis-asr/audios/audio08_11.flac|are din ang dahilan kung bakit dapat nating alagaan ang ating mga tradisyon at kultura upang mapangalagaan ang ating pagkakakilanlan bilang isang bansa
+thesis-asr/audios/audio08_12.flac|dagdag pa natin ang katotohanan na dine rin sa pilipinas mayroon tayong mga kultura at  tradisyon na are laang naman ang nagbibigay kulay at kasaysayan sa ating bansa
+thesis-asr/audios/audio08_13.flac|ganire kahalaga ang ating mga festival at mga ritwal dahil are ang nagpapakita ng ating pagkakakilanlan bilang mga pilipino
+thesis-asr/audios/audio08_14.flac|sa kabuuan dine sa pilipinas mayroong mga realidad na ito lamang naman ang nakikita
+thesis-asr/audios/audio08_15.flac|ngunit sa kabila ng lahat ng are mayroon pa tayong mga dahilan upang mapaggpatuloy at magpakatatag sa paglalakbay natin bilang isang bansa
+thesis-asr/audios/audio08_16.flac|ang tunay na ganda at halaga ng pilipinas ay nakikita natin dine lamang natin mapapansin at are rin ang nagbibigay lakas at pag asa sa ating lahat
+thesis-asr/audios/audio09_00.flac|dine sa pilipinas hindi laang mga tanawin at bundok ang nakiki dine laang
+thesis-asr/audios/audio09_01.flac|ganire din ang kahi kahirap ang sistema ng edukasyon at kalusugan sa bansa
+thesis-asr/audios/audio09_02.flac|are din ang dahilan kung bakit maraming kabataan ang hindi nakakapag aral at maraming mahihirap ang hindi nakakatanggap ng sapat na serbisyong pangkalusugan
+thesis-asr/audios/audio09_03.flac|ngunit hindi rin natin dapat kalimutan ang mga positibong bagay na dine laang din makikita
+thesis-asr/audios/audio09_04.flac|gani ganire kahaba ang kasaysayan ng pakikipaglaban para sa kalayaan at demokrasya
+thesis-asr/audios/audio09_05.flac|are din ang dahilan kung bakit dapat nating ipagpatuloy ang ating pagkilos upang mas mapag tagumpayan ang mga hamon na ating kinakaharap
+thesis-asr/audios/audio09_06.flac|dine sa pilipinas mayroon din tayong mga talento at kakayahan na are laang naman ang maghahatid ng karangalan sa ating bansa
+thesis-asr/audios/audio09_07.flac|ganire kahusay ang mga atleta natin sa mga internasyonal na patimpalak
+thesis-asr/audios/audio09_08.flac|are din ang dahilan kung bakit dapat nating suportahan ang ating mga atleta at iba pang nagbibigay ng karangalan sa ating bansa
+thesis-asr/audios/audio09_09.flac|sa huli dine sa pilipinas makikita natin ang mga pagkakataong are laang din naman darating
+thesis-asr/audios/audio09_10.flac|ganire kahalaga ang bawat isa sa atin at dine laang natin mapapakita ang tunay na pagmamahal sa ating bansa at kapwa pilipino
+thesis-asr/audios/audio09_11.flac|are din ang dahilan kung bakit dapat nating alagaan ang ating mga tradisyon at kultura upang mapangalagaan ang ating pagkakakilanlan bilang isang bansa
+thesis-asr/audios/audio09_12.flac|dagdag pa natin ang katotohanan na dine rin sa pilipinas mayroon tayong mga kultura at  tradisyon na are laang naman ang nagbibigay kulay at kasaysayan sa ating bansa
+thesis-asr/audios/audio10_00.flac|dine sa pilipinas hindi laang mga tanawin at bundok ang nakikita dine laang lamang
+thesis-asr/audios/audio10_01.flac|ganire din kahirap ang sistema ng edukasyon at kalusugan sa bansa
+thesis-asr/audios/audio10_02.flac|are din ang dahilan kung bakit maraming kabataan ang hindi nakakapag aral at maraming mahihirap ang hindi nakakatanggap ng sapat na serbisyong pangkalusugan
+thesis-asr/audios/audio10_03.flac|ngunit hindi rin natin dapat kalimutan ang mga positibong bagay na dine laang makikita
+thesis-asr/audios/audio10_04.flac|ganire kahaba ang ating kasaysayan ng pakikipaglaban para sa kalayaan at demokrasya
+thesis-asr/audios/audio10_05.flac|are din ang dahilan kung bakit dapat nating ipagpatuloy ang ating pagkilos upang mas mapagtagumpayan ang mga hamon na ating kinakaharap
+thesis-asr/audios/audio10_06.flac|dine sa pilipinas mayroon din tayong mga talento at kakayahan na are lamang naman ang maghahatid ng karangalan sa ating bansa
+thesis-asr/audios/audio10_07.flac|ganire kahusay ang mga atleta natin sa mga internasyonal na patimpalak
+thesis-asr/audios/audio10_08.flac|are din ang dahilan kung bakit dapat nating suportahan ang ating mga atleta at ibang nagbibigay ng karangalan sa ating 
+thesis-asr/audios/audio10_09.flac|sa huli dini dine sa pilipinas makikita natin ang mga pagkakataong are lamang din naman darating
+thesis-asr/audios/audio10_10.flac|ganire kahalaga ang bawat isa sa atin at dine laang natin mapapakita ang tunay na pagmamahal sa ating bansa at kapwa pilipino
+thesis-asr/audios/audio10_11.flac|are din ang dahilan kung bakit dapat nating alagaan ang ating mga tradisyon at kultura upang mapangalagaan ang ating pagkakilanlan bilang isang bansa
+thesis-asr/audios/audio10_12.flac|dagdag pa natin ang katotohanan na dine rin sa pilipinas mayroon tayong mga kultura at  tradisyon na are lamang naman ang nagbibigay kulay at kasaysayan sa ating bansa
+thesis-asr/audios/audio10_13.flac|ganire kahalaga ang ating mga festival at mga ritwal dahil are ang nagpapakita ng ating pagkakakilanlan bilang mga pilipino
+thesis-asr/audios/audio10_14.flac|sa kabuuan dine sa pilipinas mayroong mga realidad na ito lamang naman ang nakikita
+thesis-asr/audios/audio10_15.flac|ngunit sa kabila ng lahat ng are mayroon pa rin tayong mga dahilan upang magpatuloy at magpakatatag sa paglalakbay natin bilang isang bansa
+thesis-asr/audios/audio10_16.flac|ang tunay na ganda at halaga ng pilipinas ay nakikita natin dine lamang natin mapapansin at are rin ang nagbibigay lakas at pag asa sa ating lahat
+thesis-asr/audios/audio11_00.flac|dine sa pilipinas hindi laang mga tanawin at bundok ang nakikita dine laang
+thesis-asr/audios/audio11_01.flac|ganire din kahirap ang sistema ng edukasyon at kalusugan sa bansa
+thesis-asr/audios/audio11_02.flac|are din ang dahilan kung bakit maraming kabataan ang hindi nakakapag aral at maraming mahihirap ang hindi nakakatanggap ng sapat na serbisyong pangkalusugan
+thesis-asr/audios/audio11_03.flac|ngunit hindi rin natin dapat kalimutan ang mga positibong bagay na dine laang din makikita
+thesis-asr/audios/audio11_04.flac|ganire kahaba ang ating kasaysayan ng pakikipaglaban para sa kalayaan at demokrasya
+thesis-asr/audios/audio11_05.flac|are din ang dahilan kung bakit dapat nating ipagpatuloy ang ating pagkilos upang mas mapagtagumpayan ang mga hamon na ating kinakaharap
+thesis-asr/audios/audio11_06.flac|dine sa pilipinas mayroon din tayong mga talento at kakayahan na are laang naman ang maghahatid ng karangalan sa ating bansa
+thesis-asr/audios/audio11_07.flac|ganire kahusay ang mga atleta natin sa mga internasyonal na patimpalak
+thesis-asr/audios/audio11_08.flac|are din ang dahilan kung bakit dapat nating suportahan ang ating mga atleta at iba pang nagbibigay ng karangalan sa ating bansa
+thesis-asr/audios/audio11_09.flac|sa huli dine sa pilipinas makikita natin ang mga pagkakataong are laang din naman darating
+thesis-asr/audios/audio11_10.flac|ganire kahalaga ang bawat isa sa atin at dine laang natin mapapakita ang tunay na pagmamahal sa ating bansa at kapwa pilipino
+thesis-asr/audios/audio11_11.flac|are din ang dahilan kung bakit dapat nating alagaan ang ating mga tradisyon at kultura upang mapangalagaan ang ating pagkakakilanlan bilang isang bansa
+thesis-asr/audios/audio11_12.flac|dagdag pa natin ang katotohanan na dine rin sa pilipinas mayroon tayong mga kultura at  tradisyon na are laang naman ang mag ang nagbibigay kulay at kasaysayan sa ating bansa
+thesis-asr/audios/audio11_13.flac|ganire kahalaga ang ating mga festival at mga ritwal dahil are ang nagpapakita ng ating pagkakakilanlan bilang mga pilipino
+thesis-asr/audios/audio11_14.flac|sa kabuuan dine sa pilipinas mayroong mga realidad na ito laang naman ang nakikita
+thesis-asr/audios/audio11_15.flac|ngunit sa kabila ng lahat ng are mayroon pa rin tayong mga dahilan upang magpatuloy at magpakatatag sa paglalakbay natin bilang isang bansa
+thesis-asr/audios/audio11_16.flac|ang tunay na ganda at halaga ng pilipinas ay nakikita natin dine lamang natin mapapansin at are rin ang nagbibigay lakas at pag asa sa ating lahat
+thesis-asr/audios/audio12_00.flac|dine sa pilipinas hindi lamang mga tanawin at bundok ang nakikita dine laang
+thesis-asr/audios/audio12_01.flac|ganire din kahirap ang sistema ng edukasyon at kalusugan sa bansa
+thesis-asr/audios/audio12_02.flac|are din ang dahilan kung bakit maraming kabataan ang hindi nakakapag aral at maraming mahihirap ang hindi nakakatanggap ng sapat na serbisyong pangkalusugan
+thesis-asr/audios/audio12_03.flac|ngunit hindi rin natin dapat kalimutan ang mga positibong bagay na dine laang din makikita
+thesis-asr/audios/audio12_04.flac|ganire kahaba ang ating kasaysayan ng pakikipaglaban pakikipaglaban para sa kalayaan at demokrasya
+thesis-asr/audios/audio12_05.flac|are din ang dahilan kung bakit dapat nating ipagpatuloy ang ating pagkilos upang mas mapagtagumpayan ang hamon na ating ki hinaharap
+thesis-asr/audios/audio12_06.flac|dine sa pilipinas mayroon din tayong mga talento at kakayahan na na are laang naman ang maghahatid ng karangalan sa ating bansa
+thesis-asr/audios/audio12_07.flac|ganire kahusay ang mga atleta natin sa mga internasyonal na patimpalak
+thesis-asr/audios/audio12_08.flac|are din ang dahilan kung bakit dapat nating suportahan ang ating mga atleta at iba pang nagbibigay ng karangalan sa ating bansa
+thesis-asr/audios/audio12_09.flac|sa huli dine sa pilipinas makikita natin ang mga pagkakataong are laang din naman darating
+thesis-asr/audios/audio12_10.flac|ganire kahalaga ang bawat isa sa atin at dine laang natin mapapakita ang tunay na pagmamahal sa ating bansa at kapwa pilipino
+thesis-asr/audios/audio12_11.flac|are din ang dahilan kung bakit dapat nating alagaan ang ating mga tradisyon at kultura upang mapangalagaan ang ating pagkakilanlan bilang isang bansa
+thesis-asr/audios/audio12_12.flac|dagdag pa natin ang katotohanan na dine rin sa pilipinas mayroon tayong mga kultura at  tradisyon na are laang naman ang nagbibigay kulay at kasaysayan sa ating bansa
+thesis-asr/audios/audio12_13.flac|ganire kahalaga ang ating mga festival at mga ritwal dahil are ang nagpapakita ng ating pagkakakilanlan bilang mga pilipino
+thesis-asr/audios/audio12_14.flac|sa kabuuan dine sa pilipinas mayroong mga realidad na ito laang naman ang nakikita
+thesis-asr/audios/audio12_15.flac|ngunit sa kabila ng lahat ng are mayroon pa rin tayong mga dahilan upang mapagpatuloy at mapaggpa pakatatag sa paglalakbay natin bilang isang bansa
+thesis-asr/audios/audio12_16.flac|ang tunay na ganda ay at halaga ng pilipinas ay nakikita natin dine lamang natin mapapa mapapansin at are ang nagbibigay lakas at pag asa sa ating lahat
+thesis-asr/audios/audio13_00.flac|dine sa pilipinas hindi lamang mga tanawin at bundok ang makikita dine lamang
+thesis-asr/audios/audio13_01.flac|nire rin kahirap ang sistema ng edukasyon at kalusugan sa bansa
+thesis-asr/audios/audio13_02.flac|are din ang dahilan kung bakit maraming kabataan ang hindi nakakapag aral at maraming mahihirapan ang hindi nakakatanggap ng sapat na serbisyong pangkalusugan
+thesis-asr/audios/audio13_03.flac|ngunit hindi rin natin dapat kalimutan ang mga positibong bagay na dine lamang din makikita
+thesis-asr/audios/audio13_04.flac|ganire kahaba ang ating kasaysayan ng pakikipaglaban para sa ka kalayaan at demokrasya
+thesis-asr/audios/audio13_05.flac|are din ang dahilan kung bakit dapat nating ipagpatuloy ang ating pagkilos upang mas ma mapagtagumpayan ang ha mga hamon na ating hinaharap
+thesis-asr/audios/audio13_06.flac|dine sa pilipinas mayroon din tayong talento at kakayahan na ang laang naman ang maghahatid ng karangalan sa ating bansa
+thesis-asr/audios/audio13_07.flac|ganire kahusay ang mga atleta natin sa mga internasyonal na patimpalak
+thesis-asr/audios/audio13_08.flac|are din ang dahilan kung bakit dapat nating suportahan ang ating mga atleta at iba pang nagbibigay ng karangalan sa ating bansa
+thesis-asr/audios/audio13_09.flac|sa huli dine sa pilipinas makikita natin ang mga pagkakataong are laang din naman darating
+thesis-asr/audios/audio13_10.flac|ganire kahalaga ang bawat isa sa atin at dine laang natin mapapakita ang tunay na pagmamahal sa ating bansa at kapwa pilipino
+thesis-asr/audios/audio13_11.flac|are din ang dahilan kung bakit dapat nating alagaan ang ating mga tradisyon at kultura upang mapangalagaan ang ating pagpapakakilanlan bilang isang bansa
+thesis-asr/audios/audio13_12.flac|dagdag pa natin ang katotohanan na dine rin sa pilipinas mayroon tayong mga kultura at  tradisyon na are lamang naman ang nagbibigay kulay at kasaysayan sa ating bansa
+thesis-asr/audios/audio13_13.flac|ganire kahalaga ang ating mga festival at mga ritwal dahil dahil are ang nagpapakita ng ating pagkakakilanlan bilang mga pilipino
+thesis-asr/audios/audio13_14.flac|sa kabuuan dine sa pilipinas mayroong mga realidad na ito laang naman ang makikita
+thesis-asr/audios/audio13_15.flac|ngunit sa kabila ng lahat ng are mayroon pa rin tayong mga dahilan upang magpatuloy at magpakatatag sa paglalakbay natin bilang isang bansa
+thesis-asr/audios/audio13_16.flac|ang tunay na ganda at halaga ng pilipinas ay nakikita dine lamang natin mapapansin at are at are rin ang nagbibigay lakas at pag asa sa ating lahat
+thesis-asr/audios/audio14_00.flac|ne sa pilipinas hindi laang mga tanawin at bundok ang nakikita dine
+thesis-asr/audios/audio14_01.flac|ganire din ka kahirap ang sistema ng edukasyon at kalusugan sa bansa
+thesis-asr/audios/audio14_02.flac|are din ang dahilan kung bakit maraming kabataan ang hindi nakakapag aral at maraming mahihirap ang hindi nakakatanggap ng sapat na serbisyong pangkalusugan
+thesis-asr/audios/audio14_03.flac|ngunit hindi rin dapat kalimutan ang mga positibong bagay na dine lamang din makikita
+thesis-asr/audios/audio14_04.flac|ganire kahaba ang ating kasaysayan ng pakikipaglaban para sa kalayaan at demokrasya
+thesis-asr/audios/audio14_05.flac|are din ang dahilan kung bakit dapat nating ipagpatuloy ang ating pagkilos upang mas mapagtagumpayan ang mga hamon na ating kinahaharap
+thesis-asr/audios/audio14_06.flac|dine sa pilipinas mayroon din tayong mga talento at kakayahan na are lamang naman ang maghahatid ng karangalan sa ating bansa
+thesis-asr/audios/audio14_07.flac|ganire kahusay ang mga atleta natin sa mga internasyonal na pan patimpalak
+thesis-asr/audios/audio14_08.flac|are din ang dahilan kung bakit dapat nating suportahan ang ating mga atleta at iba pang nagbibigay ng karangalan sa ating bansa
+thesis-asr/audios/audio14_09.flac|sa huli dine sa pilipinas makikita natin ang mga pagkakataong are lamang din naman darating
+thesis-asr/audios/audio14_10.flac|ganire kahalaga ang bawat isa sa atin at dine lamang natin mapapakita ang tunay na pagmamahal sa ating bansa at kapwa pilipino
+thesis-asr/audios/audio14_11.flac|are din ang dahilan kung bakit dapat nating alagaan ang ating mga tradisyon at kultura upang mapangalagaan ang ating pagkakakilanlan bilang isang bansa
+thesis-asr/audios/audio14_12.flac|dagdag pa natin ang katotohanan na dine rin sa pilipinas mayroon tayong mga kultura at  tradisyon na are lamang naman ang nagbibigay kulay at kasaysayan sa ating bansa
+thesis-asr/audios/audio14_13.flac|ganire kahalaga ang ating mga festival at mga ritwal dahil are ang nagpapakita sa ng pagkakakilanlan bilang mga pilipino
+thesis-asr/audios/audio14_14.flac|sa kabuuan dine sa pilipinas mayroong mga realidad  ito lang naman ang nakikita
+thesis-asr/audios/audio14_15.flac|ngunit sa kabila ng lahat ng are mayroon pa tayong dahilan upang ip patuloy at magpakatatag sa paglalakbay natin bilang isang bansa
+thesis-asr/audios/audio14_16.flac|ang tunay na ganda at halaga ng pilipinas ay nakikita natin dine lamang natin mapapansin at tayo rin ang magbibigay lakas at pag asa sa ating lahat
+thesis-asr/audios/audio15_00.flac|dine sa pilipinas hindi laang mga tanawin at bundok ang nakikita dine laang
+thesis-asr/audios/audio15_01.flac|ganire din kahirap ang sistema ng edukasyon at kalusugan ng bansa
+thesis-asr/audios/audio15_02.flac|are din ang dahilan kung bakit maraming kabataan ang hindi nakakapag aral at maraming mahihirap ang hindi nakakatanggap ng sapat na serbisyong pangkalusugan
+thesis-asr/audios/audio15_03.flac|ngunit hindi rin natin dapat kalimutan ang mga positibong bagay na dine laang din
+thesis-asr/audios/audio15_04.flac|ganire kahaba ang ating kasaysayan at pakikip ng pakikipaglaban para sa kalayaan ng demokrasya
+thesis-asr/audios/audio15_05.flac|are din ang dahilan kung bakit dapat nating ipagpatuloy ang ating pagkilos upang mas mapagtagumpayan ang mga hamon na ating kinakaharap
+thesis-asr/audios/audio15_06.flac|dine sa pilipinas mayroon din tayong mga tan talento at kakayahan na are laang naman ang maghahatid ng karangalan sa ating bansa
+thesis-asr/audios/audio15_07.flac|ganire kahusay ang mga atleta natin sa mga internasyonal na patimpalak
+thesis-asr/audios/audio15_08.flac|are din ang dahilan kung bakit dapat nating suportahan ang ating mga atleta at iba pang nagbibigay ng karangalan sa ating bansa
+thesis-asr/audios/audio15_09.flac|sa huli dine sa pilipinas makikita natin ang pagkakataong are laang din naman darating
+thesis-asr/audios/audio15_10.flac|ganire kahalaga ang bawat isa sa atin at dine laang natin mapapakita ang tunay na pagmamahal sa ating bansa at kapwa pilipino
+thesis-asr/audios/audio15_11.flac|are din ang dahilan kung bakit dapat nating alagaan ang ating mga tradisyon at kultura upang mapangalagaan ang ating pagkakakilanlan bilang isang bansa
+thesis-asr/audios/audio15_12.flac|dagdag pa natin ang katotohanan na dine rin sa pilipinas mayroon tayong mga kultura at  tradisyon na are laang naman ang nagbibigay kulay at kasaysayan sa ating bansa
+thesis-asr/audios/audio15_13.flac|ganire kahalaga ang ating mga festival at mga ritwal dahil are ang nagpapakita ng ating pagkakakilanlan bilang mga pilipino
+thesis-asr/audios/audio15_14.flac|sa kabuuan dine sa pilipinas mayroong mga realidad na ito laang naman ang nakikita
+thesis-asr/audios/audio15_15.flac|ngunit sa kabila ng lahat ng are mayroon pa rin tayong mga kadahilan upang magpatuloy at magpa pakatatag at sa paglalakbay natin bilang isang bansa
+thesis-asr/audios/audio15_16.flac|ang tunay na ganda at halaga ng pilipinas ay nakikita natin natin dine laang naman mapapansin at are rin ang nagbibigay lakas at pag asa ng ating lahat
+thesis-asr/audios/audio16_00.flac|hindi laang mga tanawin at bundok ang nakikita dine lang
+thesis-asr/audios/audio16_01.flac|ganire din kahirap ang sistema ng edukasyon at kalusugan sa bansa
+thesis-asr/audios/audio16_02.flac|are din ang dahilan kung bakit maraming kabataan ang hindi nakakapag aral at maraming mahihirap ang hindi ang nakakatanggap ng sapat na serbisyong pangkalusugan
+thesis-asr/audios/audio16_03.flac|ngunit hindi na natin dapat kalimutan ang mga posi positibong bagay na na dine lang din makikita
+thesis-asr/audios/audio16_04.flac|ganire kahaba ang ating kasay kasili kasaysayan ng pakikipaglaban para sa kalayaan at demokrasya
+thesis-asr/audios/audio16_05.flac|are din ang dahilan kung bakit dapat nating ipagpatuloy ang ating pagkilos upang mas matagumpay mapagtagumpayan ang mga hamon na ating kinahaharap
+thesis-asr/audios/audio16_06.flac|dine sa pilipinas mayroon din tayong mga talento at kakayahan na na are laang naman ang internasyonal na patimpalak 
+thesis-asr/audios/audio16_07.flac|are rin ang dahilan kung bakit dapat nating suportahan ang ating mga atleta at iba pang nagbibigay ng ka karangalan sa ating bansa
+thesis-asr/audios/audio16_08.flac|sa huli dine sa pilipinas makikita natin ang mga pagkakataong are laang din ang naman darating
+thesis-asr/audios/audio16_09.flac|pagma pagmamahal sa ating bansa at kapwa pilipino
+thesis-asr/audios/audio16_10.flac|are din ang dahilan kung bakit dapat nating alagaan ang ating tradisyon at kultura upang mapangalagaan ang ating pagkakakilanlan bilang isang bansa
+thesis-asr/audios/audio16_11.flac|dagdag pa natin ang katotohanan na dine dine rin sa pilipinas mayroon tayong mga kultura at tradisyon na ara are laang naman ang nagbibigay kulay at kasaysayan sa ating bansa
+thesis-asr/audios/audio16_12.flac|ganire kahalaga ang ating mga festival at mga ritwal dahil dahilan ang ang nagpakita ng ating pakakakilanlan bilang mga pilipino
+thesis-asr/audios/audio16_13.flac|sa kubo sa kabuuan dine sa pilipinas mayroong mga rit ri realidad na na ito laang naman ang nakikitang
+thesis-asr/audios/audio16_14.flac|ngunit sa kabila ng lahat ng are mayroon pa rin tayong mga dahilan upang magpa mag magpatuloy at mag magpakatatag sa paglalakbay natin bilang isang bansa
+thesis-asr/audios/audio16_15.flac|ang tunay na ganda at halaga ng pilipinas nakikita natin din lamang natin mapapansin at are are rin ang nagbibigay lakas at pag asa sa ating lahat
+thesis-asr/audios/audio17_00.flac|dine sa pilipinas hindi laang mga tanawin at bundok ang nakikita di dine laang
+thesis-asr/audios/audio17_01.flac|ganire din kahirap ang sistema ng edukasyon at kalusugan sa bansa
+thesis-asr/audios/audio17_02.flac|are din ang kadahilan kung bakit maraming kabataan ang hindi nakakapag aral at maraming mahihirap ang hindi nakakatanggap ng sapat na serbisyong pangkasa pangkalusugan
+thesis-asr/audios/audio17_03.flac|ngunit hindi rin natin dapat kalimutan ang mga positibong bagay na dine lamang din makikita
+thesis-asr/audios/audio17_04.flac|ganire din garine kahaba ang ating kasaysayan ng pakikipaglaban para sa kalayaan at demokrasya
+thesis-asr/audios/audio17_05.flac|are din ang dahilan kung bakit dapat nating ipagpatuloy ang ating pagkilos upang mas mapagtagumpayan ang mga hamon na ating kinakaharap
+thesis-asr/audios/audio17_06.flac|dine sa pilipinas mayroon din tayong mga talento at kakayahan na are laang naman ang maghahatid ng karangalan sa ating bansa
+thesis-asr/audios/audio17_07.flac|ganire kahusay ang mga atleta natin sa mga internasyonal na patim patimpalak
+thesis-asr/audios/audio17_08.flac|are din ang dahilan kung bakit dapat nating suportahan ang ating mga atleta at iba pang nagbibigay ng karangalan sa ating bansa
+thesis-asr/audios/audio17_09.flac|sa huli dine sa pilipinas makikita natin ang mga pagkakataong are laang din naman darating
+thesis-asr/audios/audio17_10.flac|ganire kahalaga ang bawat isa sa atin at dine laang natin mapapakita ang tunay na pagmamahal sa ating bansa at kapwa pilipino
+thesis-asr/audios/audio17_11.flac|are din ang dahilan kung bakit dapat nating alagaan ang ating mga tradisyon at kultura upang mapangalagaan ang ating pagkakakilanlan bilang isang bansa
+thesis-asr/audios/audio17_12.flac|dagdag pa natin ang katotohanan na dine rin sa pilipinas mayroon tayong mga kultura at  tradisyon na are lamang are laang naman ang nagbibigay kulay at kasaysayan sa ating bansa
+thesis-asr/audios/audio17_13.flac|ganire kahalaga ang ating mga festival at mga ritwal dahil are ang nagpapakita sa ating pagkakakilanlan bilang mga pilipino
+thesis-asr/audios/audio17_14.flac|sa kabuuan dine sa pilipinas mayroong mga ri realidad na ito laang naman ang makikita
+thesis-asr/audios/audio17_15.flac|ngunit sa kabila ng lahat na are mayroon pa rin tayong mga dahilan upang magpatuloy at magpakatatag sa paglalakbay natin bilang isang bansa
+thesis-asr/audios/audio17_16.flac|ang tunay na ganda at halaga ng pilipinas ay nakikita na din natin dine lamang natin mapapansin at are rin ang nagbibigay lakas at pag asa sa ating lahat
+thesis-asr/audios/audio18_00.flac|dine sa pilipinas hindi laang mga tanawin at bundok ang nakikita dine laang
+thesis-asr/audios/audio18_01.flac|ganire din kahirap ang sistema ng edukasyon at kalusugan sa bansa
+thesis-asr/audios/audio18_02.flac|are din ang dahilan kung bakit maraming kabataan ang hindi nakakapag aral at maraming mahihirap ang hindi nakakatanggap ng sapat na serbisyong pangkalusugan
+thesis-asr/audios/audio18_03.flac|ngunit hindi natin dapat kalimutan ang mga positibong bagay na dine laang din makikita
+thesis-asr/audios/audio18_04.flac|ganire kahaba ang ating kasaysayan ng pakikipaglaban para sa kalayaan at demokrasya
+thesis-asr/audios/audio18_05.flac|are din ang dahilan kung bakit dapat nating ipagpatuloy ang ating pagkilos upang mas mapag mas mapagtagumpayan ang mga hamon na ating kinakaharap
+thesis-asr/audios/audio18_06.flac|dine sa pilipinas mayroon din tayong mga talento at kakayahan na are laang naman ang maghahatid ng karangalan sa ating bansa
+thesis-asr/audios/audio18_07.flac|ganire kahusay ang mga atleta natin sa mga internasyonal na patimpalak
+thesis-asr/audios/audio18_08.flac|are din ang dahilan kung bakit dapat nating suportahan ang ating mga atleta at iba pang nagbibigay ng karangalan sa ating bansa
+thesis-asr/audios/audio18_09.flac|sa huli dine sa pilipinas makikita natin ang mga pagkakataong are laang din naman darating
+thesis-asr/audios/audio18_10.flac|ganire kahalaga ang bawat isa sa atin at dine laang natin mapapakita ang tunay na pagmamahal sa ating bansa at kapwa pilipino
+thesis-asr/audios/audio18_11.flac|are rin ang dahilan kung bakit dapat nating alagaan ang ating mga tradisyon at kultura upang mapangalagaan ang ating pagkakakilanlan bilang isang bansa
+thesis-asr/audios/audio18_12.flac|dagdag pa natin ang katotohanan na dine rin sa pilipinas mayroon tayong mga kultura at  tradisyon na are laang naman ang nagbibigay kulay at kasaysayan sa ating bansa
+thesis-asr/audios/audio18_13.flac|ganire kahalaga ang ating mga festival at mga ritwal dahil ang are ang nagpapakita ng ating pagkakakilanlan bilang mga pilipino
+thesis-asr/audios/audio18_14.flac|sa kabuuan dine sa pilipinas mayroong mga realidad na ito laang naman ang nakikita
+thesis-asr/audios/audio18_15.flac|ngunit sa kabila ng lahat ng are mayroon pa rin tayong mga dahilanan upang magpatuloy at magpakatatag sa paglalakbay natin bilang isang bansa
+thesis-asr/audios/audio18_16.flac|ang tunay na ganda at halaga ng pilipinas ay nakikita natin dine lamang dine lamang natin mapapansin at are rin ang nagbibigay lakas at pag asa sa ating lahat
+thesis-asr/audios/audio19_00.flac|dine sa pilipinas hindi laang mga tanawin at bundok ang nakikita dine laang
+thesis-asr/audios/audio19_01.flac|ganire din kahirap ang sistema ng edukasyon at kalusugan sa bansa
+thesis-asr/audios/audio19_02.flac|are rin ang dahilan kung bakit maraming kabataan ang hindi nakakapag aral at maraming mahihirap ang hindi nakakatanggap ng sapat na serbisyong pangkalusugan
+thesis-asr/audios/audio19_03.flac|ngunit hindi din natin dapat kalimutan ang mga positibong bagay na din lang makikita
+thesis-asr/audios/audio19_04.flac|ganire kahaba ang ating kasaysayan ng pakikipaglaban para sa kalayaan at demokrasya
+thesis-asr/audios/audio19_05.flac|are din ang dahilan kung bakit dapat nating ipagpatuloy ang ating pagkilos upang mas mapagtagumpayan ang mga hamon na ating kinakaharap
+thesis-asr/audios/audio19_06.flac|dine sa pilipinas mayroon din tayong mga talento at kakayahan na are laang naman ang maghahatid ng karangalan sa ating bansa
+thesis-asr/audios/audio19_07.flac|ganire kahusay ang mga atleta natin sa mga internasyonal na patimpalak
+thesis-asr/audios/audio19_08.flac|are din ang dahilan kung bakit dapat nating suportahan ang ating mga atleta at iba pang nagbibigay ng karangalan sa ating bansa
+thesis-asr/audios/audio19_09.flac|sa huli dine sa pilipinas makikita natin ang mga pagkakataong are laang dinnaman darating
+thesis-asr/audios/audio19_10.flac|ganire kahalaga ang bawat isa sa atin at dine laang natin mapapakita ang tunay na pagmamahal sa ating bansa at kapwa pilipino
+thesis-asr/audios/audio19_11.flac|are din ang dahilan kung bakit dapat nating alagaan ang ating mga tradisyon at kultura upang mapangalagaan ang ating pagkakakilanlan bilang isang bansa
+thesis-asr/audios/audio19_12.flac|dagdag pa natin ang katotohanan na di din rin sa pilipinas mayroon tayong mga kultura at  tradisyon na are laang naman ang nagbibigay kulay at kasaysayan sa ating bansa
+thesis-asr/audios/audio19_13.flac|ganire kahalaga ang ating mga festival at mga ritwal dahil are ang nagpapakita ng ating pagkakakilanlan bilang mga pilipino
+thesis-asr/audios/audio19_14.flac|sa kabuuan dine sa pilipinas mayroong mga realidad na ito laang naman ang nakikita
+thesis-asr/audios/audio19_15.flac|ngunit sa kabila ng lahat ng are mayroon pa rin tayong mga dahilan upang magpatuloy at magpakatatag sa paglalakbay natin bilang isang bansa
+thesis-asr/audios/audio19_16.flac|ang tunay na ganda at halaga ng pilipinas ay nakikita natin dine lamang natin napapansin at are rin ang nagbibigay lakas at pag asa sa ating lahat
+thesis-asr/audios/audio20_00.flac|dine sa pilipinas hindi laang mga tanawin at bundok ang nakikita dine nito dine laang
+thesis-asr/audios/audio20_01.flac|ganire din kahirap ang sistema ng edukasyon at kalusugan sa bansa
+thesis-asr/audios/audio20_02.flac|are rin ang dahilan kung bakit maraming kabataan dine ang hindi nakakapag aral at maraming mahihirap ang hindi nakakatanggap ng sapat na serbisyong pangkalusugan
+thesis-asr/audios/audio20_03.flac|ngunit hindi din natin dapat kalimutan ang mga positibong bagay na dine laang din makikita
+thesis-asr/audios/audio20_04.flac|ganire kahaba ang ating kasaysayan ng pakikipaglaban para sa kalayaan at demokrasya
+thesis-asr/audios/audio20_05.flac|are din ang dahilan kung bakit dapat nating ipagpatuloy ang ating pagkilos upang mas mapagtagumpayan ang mga hamon na ating kinakaharap
+thesis-asr/audios/audio20_06.flac|dine sa pilipinas mayroon din tayong mga talento at kakayahan na are laang naman ang maghahatid ng karangalan ng ating bansa
+thesis-asr/audios/audio20_07.flac|ganire kahusay ang mga atleta natin sa mga internasyonal na patimpalak
+thesis-asr/audios/audio20_08.flac|are din ang dahilan kung bakit dapat nating suportahan ang ating mga atleta at iba pang nagbibigay ng karangalan sa ating bansa
+thesis-asr/audios/audio20_09.flac|sa huli dine sa pilipinas makikita natin ang mga pagkakataong are laang din namang darating
+thesis-asr/audios/audio20_10.flac|ganire kahalaga ang bawat isa sa atin at dine laang natin mapapakita ang tunay na pagmamahal sa ating bansa at kapwa pilipino
+thesis-asr/audios/audio20_11.flac|are din ang dahilan kung bakit dapat nating alagaan ang ating mga tradisyon at kultura upang mapangalagaan ang ating pagkakakilanlan bilang isang bansa
+thesis-asr/audios/audio20_12.flac|dagdag pa natin ang katotohanan na dine rin sa pilipinas mayroon tayong mga kultura at tradisyon na are laang naman ang nagbibigay kulay at kasaysayan sa ating bansa
+thesis-asr/audios/audio20_13.flac|ganire kahalaga ang ating mga festival at ritwal dahil are ang nagpapakita ng ating pagkakakilanlan bilang mga pilipino
+thesis-asr/audios/audio20_14.flac|oh sa kabuuan dine sa pilipinas mayroong mga realidad na ito laang naman ang nakikita
+thesis-asr/audios/audio20_15.flac|ngunit sa kabila ng lahat ng are mayroon pa rin tayong mga dahilan upang magpatuloy at magpakatatag sa paglalakbay natin bilang isang bansa
+thesis-asr/audios/audio20_16.flac|ang tunay na ganda at halaga ng pilipinas ay nakikita natin dine lamang natin mapapansin at are rin ang nagbibigay lakas at pag asa sa ating lahat
+thesis-asr/audios/audio21_00.flac|dine sa pilipinas hindi laang mga tanawin at bundok ang nakikita dine nito dine laang
+thesis-asr/audios/audio21_01.flac|ganire rin kahirap ang sistema ng edukasyon at kalusugan sa bansa
+thesis-asr/audios/audio21_02.flac|are rin ang dahilan kung bakit maraming kabataan dine ang hindi nakakapag aral at maraming mahihirap ang hindi nakakatanggap ng sapat na serbisyong pangkalusugan
+thesis-asr/audios/audio21_03.flac|ngunit hindi natin dapat kalimutan ang mga positibong bagay na dine laang din makikita
+thesis-asr/audios/audio21_04.flac|ganire kahaba ang ating kasaysayan ng pakikipaglaban para sa kalayaan at demokrasya
+thesis-asr/audios/audio21_05.flac|are din ang dahilan kung bakit dapat nating ipagpatuloy ang ating pagkilos upang mas magtatagumpayan ang hamon are din ang dahilan kung bakit dapat nating ipagpatuloy ang ating pagkilos upang mas mapagtagumpayan ang mga hamon na ating kinakaharap
+thesis-asr/audios/audio21_06.flac|dine sa pilipinas mayroon din tayong mga talento at kakayahan na are laang naman ang maghahatid ng karangalan ng ating bansa
+thesis-asr/audios/audio21_07.flac|ganire kahusay ang mga atleta natin sa mga internasyonal na patimpalak
+thesis-asr/audios/audio21_08.flac|are din ang dapat dahilan kung bakit dapat nating ipagpatuloy ang ating mga atleta at iba pang nagbibigay ng karangalan sa ating bansa
+thesis-asr/audios/audio21_09.flac|sa huli ay dine sa pilipinas makikita natin ang mga pagkakataong are laang din namang ang darating
+thesis-asr/audios/audio21_10.flac|ganire kahalaga ang bawat isa sa atin at dine laang natin mapapakita ang tunay na pagmamahal sa ating bansa at kapwa pilipino
+thesis-asr/audios/audio21_11.flac|are din ang dahilan kung bakit dapat nating alagaan ang ating mga tradisyon at kultura upang mapangalagaan ang ating pagkakakilanlan bilang isang bansa
+thesis-asr/audios/audio21_12.flac|dagdag pa natin ang katotohanan na dine rin sa pilipinas mayroon tayong mga kultura at tradisyon na are laang naman ang nagbibigay kulay at kasaysayan sa ating bansa
+thesis-asr/audios/audio21_13.flac|ganire kahalaga ang ating mga festival at ritwal dahil are ang nagpapakita ng ating pagkakakilanlan bilang mga pilipino
+thesis-asr/audios/audio21_14.flac|sa kabuuan dine sa pilipinas mayroong mga realidad na ito laang naman ang nakikita
+thesis-asr/audios/audio21_15.flac|ngunit sa kabila lahat ng are sa kabuuan dine sa pilipinas mayroong mga realidad na ito laang naman ang nakikita
+thesis-asr/audios/audio21_16.flac|ngunit sa kabila ng lahat ng are mayroon pa rin tayong mga dahilan upang magpatuloy at magpakatatag sa paglalakbay natin bilang isang bansa
+thesis-asr/audios/audio21_17.flac|ang tunay na ganda at halaga ng pilipinas ay nakikita natin dine lamang natin mapapansin at are rin ang nagbibigay lakas at pag asa sa ating lahat
+thesis-asr/audios/audio22_00.flac|dine sa pilipinas hindi laang mga tanawin at bundok ang nakikita nito dine laang
+thesis-asr/audios/audio22_01.flac|ganire din kahirap ang sistema ng edukasyon at kalusugan sa bansa
+thesis-asr/audios/audio22_02.flac|are rin ang dahilan kung bakit maraming kabataan ang hindi nakakapag aral at maraming mahihirap ang hindi nakakatanggap ng sapat na serbisyong pangkalusugan
+thesis-asr/audios/audio22_03.flac|ngunit hindi din natin dapat kalimutan ang mga positibong bagay na dine lamang din makikita
+thesis-asr/audios/audio22_04.flac|ganire din kahaba ang ating kasaysayan ng pakikipaglaban para sa kalayaan at demokrasya
+thesis-asr/audios/audio22_05.flac|are din ang dahilan kung bakit dapat nating ipagpatuloy ang ating pagkilos upang mas mapagtagumpayan ang mga hamon na ating kinakaharap
+thesis-asr/audios/audio22_06.flac|dine sa pilipinas mayroon din tayong mga talento at kakayahan na are laang ang maghahatid ng karangalan sa ating bansa
+thesis-asr/audios/audio22_07.flac|ganire kahusay ang mga atleta natin sa mga internasyonal na patimpalak
+thesis-asr/audios/audio22_08.flac|are din ang dahilan kung bakit dapat nating suportahan ang ating mga atleta at iba pang nagbibigay ng karangalan sa ating bansa
+thesis-asr/audios/audio22_09.flac|sa huli dine sa pilipinas makikita natin ang mga pagkakataong are laang din naman darating
+thesis-asr/audios/audio22_10.flac|ganire kahalaga ang bawat isa sa atin at dine laang natin mapapakita ang tunay na pagmamahal sa ating bansa at kapwa pilipino
+thesis-asr/audios/audio22_11.flac|are din ang dahilan kung bakit dapat nating alagaan ang ating mga tradisyon at kultura upang mapangalagaan ang ating pagkakakilanlan bilang isang bansa
+thesis-asr/audios/audio22_12.flac|dagdag pa natin ang katotohanan na dine rin sa pilipinas mayroon tayong mga kultura at  tradisyon na are laang naman ang nagbibigay kulay at kasaysayan sa ating bansa
+thesis-asr/audios/audio22_13.flac|ganire kahalaga ang ating mga festival at mga ritwal dahil are ang nagpapakita ng ating pagkakakilanlan bilang mga pilipino
+thesis-asr/audios/audio22_14.flac|sa kabuuan dine sa pilipinas mayroong mga realidad na ito laang naman ang nakikita
+thesis-asr/audios/audio22_15.flac|ngunit sa kabila ng lahat ng are mayroon pa rin tayong mga dahilan upang magpatuloy at magpakatatag sa paglalakbay natin bilang isang bansa
+thesis-asr/audios/audio22_16.flac|ang tunay na ganda at halaga ng pilipinas ay nakikita natin dine laang natin mapapansin at are rin ang nagbibigay lakas at pag asa sa ating lahat
+thesis-asr/audios/audio23_00.flac|dine sa pilipinas hindi laang mga tanawin at bundok ang nakikita rine
+thesis-asr/audios/audio23_01.flac|ganire rin kahirap ang sistema ng edukasyon at kalusugan sa bansa
+thesis-asr/audios/audio23_02.flac|are rin ang dahilan kung bakit maraming kabataan ang hindi nakakapag aral at maraming mahihirap ang hindi nakakatanggap ng sapat na serbisyong pangkalusugan
+thesis-asr/audios/audio23_03.flac|ngunit hindi rin natin dapat kalimutan ang mga positibong bagay na rine lamang din makikita
+thesis-asr/audios/audio23_04.flac|ganire kahaba ang ating kasaysayan ng pakikipaglaban para sa kalayaan at demokrasya
+thesis-asr/audios/audio23_05.flac|are rin ang dahilan kung bakit dapat nating ipagpatuloy ang ating pagkilos upang mas mapagtagumpayan ang mga hamon na ating kinakaharap
+thesis-asr/audios/audio23_06.flac|dine sa pilipinas mayroon din tayong mga talento at kakayahan na ka bukod tanging maghahatid ng karangalan sa ating bansa
+thesis-asr/audios/audio23_07.flac|ganire kahusay ang mga atleta natin sa mga internasyunal na patimpalak
+thesis-asr/audios/audio23_08.flac|are rin ang dahilan kung bakit dapat nating suportahan ang ating mga atleta at iba pang nagbibigay ng karangalan sa ating bansa
+thesis-asr/audios/audio23_09.flac|sa hule dine sa pilipinas makikita natin ang mga pagkakataong nire laang din naman darating
+thesis-asr/audios/audio23_10.flac|ganire kahalaga ang bawat isa sa atin at sa ganireng paraan lang natin mapapakita ang tunay na pagmamahal sa ating bansa at kapwa pilipino
+thesis-asr/audios/audio23_11.flac|are rin ang dahilan kung bakit dapat nating alagaan ang ating mga tradisyon at kultura upang mapangalagaan ang ating pagkakakilanlan bilang isang bansa
+thesis-asr/audios/audio23_12.flac|dagdag pa natin ang katotohanan na dine rin sa pilipinas mayroon tayong mga kultura at  tradisyon na are laang naman ang nagbibigay kulay at kasaysayan sa ating bansa
+thesis-asr/audios/audio23_13.flac|ganire kahalaga ang ating mga festival at mga ritwal dahil ire ang nagpapakita ng ating pagkakakilanlan bilang mga pilipino
+thesis-asr/audios/audio23_14.flac|sa kabuuan dine sa pilipinas mayroong mga realidad na ito laang naman ang nakikita
+thesis-asr/audios/audio23_15.flac|ngunit sa kabila ng lahat na are mayroon pa rin tayong mga dahilan upang magpatuloy at magpakatatag sa paglalakbay natin bilang isang bansa
+thesis-asr/audios/audio23_16.flac|ang tunay na ganda at halaga ng pilipinas ay nakikita natin at dine lamang natin mapapansin at are rin ang nagbibigay lakas at pag asa sa ating lahat
+thesis-asr/audios/audio24_00.flac|dine sa pilipinas hindi lamang mga tanawin at bundok ang nakikita dine lamang
+thesis-asr/audios/audio24_01.flac|ganire rin kahirap ang sistema ng edukasyon at kalusugan sa bansa
+thesis-asr/audios/audio24_02.flac|are rin ang dahilan kung bakit maraming kabataan ang hindi nakakapag aral at maraming mahihirap ang hindi nakakatanggap ng sapat na serbisyong pangkalusugan
+thesis-asr/audios/audio24_03.flac|ngunit hindi rin nga hindi rin natin dapat kalimutan ang mga positibong bagay na dine lamang din makikita
+thesis-asr/audios/audio24_04.flac|ganito kahaba ang ating kasaysayan ng pakikipaglaban para sa kalayaan at demokrasya
+thesis-asr/audios/audio24_05.flac|are rin ang dahilan kung bakit dapat nating ipagpatuloy ang ating pagkilos upang mas mapagtagumpayan ang mga hamon na ating kinahaharap
+thesis-asr/audios/audio24_06.flac|dine sa pilipinas mayroon din tayong mga talento at kakayahan na are lamang naman ang maghahatid ng karangalan sa ating bansa
+thesis-asr/audios/audio24_07.flac|ganire kahusay ang mga atleta natin sa mga internasyonal na patimpalak
+thesis-asr/audios/audio24_08.flac|are rin ang dahilan kung bakit dapat nating suportahan ang ating mga atleta at iba pang nagbibigay ng karangalan sa ating bansa
+thesis-asr/audios/audio24_09.flac|sa huli dine sa pilipinas makikita natin ang mga pagkakataong are lamang rin naman dara are lamang rin naman darating
+thesis-asr/audios/audio24_10.flac|ganire kahalaga ang bawat isa sa atin at dine rin lamang natin mapapakita ang tunay na pagmamahal sa ating bansa at kapwa pilipino
+thesis-asr/audios/audio24_11.flac|are rin ang dahilan kung bakit dapat nating alagaan ang ating mga tradisyon at kultura upang mapangalagaan ang ating pakikipagka pagkakakilanlan bilang bilang isang bansa
+thesis-asr/audios/audio24_12.flac|dagdag natin dagdag pa natin ang katotohanan na dine rin sa pilipinas mayroon tayong mga kultura at  tradisyon na are lamang naman ang nagbibigay kulay at kasaysayan sa ating bansa
+thesis-asr/audios/audio24_13.flac|ganire kahalaga ang ating mga festival at mga ritwal dahil are lang are ang nagpapakita ng ating pagkakakilanlan bilang mga pilipino
+thesis-asr/audios/audio24_14.flac|sa kabuuan dine sa pilipinas mayroong mga realidad na ito lamang naman ang nakikita
+thesis-asr/audios/audio24_15.flac|ngunit sa kabila ng lahat ng are maryoon mayroon pa rin tayong mga dahilan upang magpatuloy at magpakatatag sa paglalakbay natin bilang isang bansa
+thesis-asr/audios/audio24_16.flac|ang tunay na ganda at halaga ng pilipinas ay nakikita natin dine lamang natin mapapansin at are rin ang nagbibigay lakas at pag asa sa ating lahat
+thesis-asr/audios/audio25_00.flac|dine sa pilipinas hindi laang mga tanawin at bundok ang nakikita dine lamang
+thesis-asr/audios/audio25_01.flac|ganire rin ng ka kahirap ang sistema ng edukasyon at kalusugan sa bansa
+thesis-asr/audios/audio25_02.flac|are rin ang dahilan kung bakit madaming kabataan ang hindi nakakapag aral at maraming mahihirap ang hindi nakatanggap ng sapat na serbisyong pangkalusugan
+thesis-asr/audios/audio25_03.flac|ngunit hindi rin natin dapat kalimutan ang mga positibong bagay na rine lamang makikita
+thesis-asr/audios/audio25_04.flac|ganire kahaba ang ating kasaysayan ng pakikipaglaban para sa kalayaan at demokrasya
+thesis-asr/audios/audio25_05.flac|are rin ang dahilan kung bakit dapat nating ipagpatuloy ang ating pagkilos upang mas mapatung mapag tagumpayan ang mga hamon na ating kinakaharap
+thesis-asr/audios/audio25_06.flac|dine sa pilipinas mayroon din tayong mga talento at kakayahan na are laang naman ang maghahatid ng karangalan sa ating bansa
+thesis-asr/audios/audio25_07.flac|ganire kahusay ang mga atleta natin sa mga internasyunal na patimpalak
+thesis-asr/audios/audio25_08.flac|are rin ang dahilan kung bakit dapat nating suportahan ang ating mga atleta at iba pang nagbibigay ng karangalan sa ating bansa
+thesis-asr/audios/audio25_09.flac|sa huli dine sa pilipinas makikita natin ang mga pagkakataong are laang rin naman ang na darating
+thesis-asr/audios/audio25_10.flac|ganire kahalaga ang bawat isa sa atin at nire laang natin makikita ang tunay na pagmamahal sa ating bansa at kapwa pilipino
+thesis-asr/audios/audio25_11.flac|are rin ang dahilan kung bakit dapat nating alagaan ang ating mga tradisyon at kultura upang mapangalagaan ang ating pagkakakilanlan bilang isang bansa
+thesis-asr/audios/audio25_12.flac|dagdag pa natin ang katotohanan na dine dine rin sa pilipinas mayroon tayong mga kultura at  tradisyon na are laang naman ang nagbibigay kulay at kasaysayan sa ating bansa
+thesis-asr/audios/audio25_13.flac|ganire kahalaga ang ating mga festival mga ritwal dahil are ang nagpapakita ng ating pagkakakilanlan bilang mga pilipino
+thesis-asr/audios/audio25_14.flac|sa kabuuan dine sa pilipinas mayroong mga realidad na ito laang naman ang nakikita
+thesis-asr/audios/audio25_15.flac|ngunit sa kabila ng lahat ng are mayroon pa rin tayong mga dapat mga dapat idahilan upang magpatuloy at magpakatatag sa paglalakbay natin bilang isang bansa
+thesis-asr/audios/audio25_16.flac|ang mga tunay na ganda at halaga ng pilipinas ay nakikita natin dine lamang natin mapapansin at are ang nagbibigay lakas at pag asa sa ating lahat
